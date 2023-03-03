@@ -1,2 +1,0 @@
-# BTVN-C-
-BTVN C++
